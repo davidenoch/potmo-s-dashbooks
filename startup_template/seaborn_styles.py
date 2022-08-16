@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-import Startup.seaborn as sns
-#%matplotlib inline
+import seaborn as sns
+# %matplotlib inline
 
 plt.style.use("ggplot");
 """  available styles: ['Solarize_Light2', '_classic_test_patch', 'bmh', 'classic', 
