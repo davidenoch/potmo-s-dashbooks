@@ -12,3 +12,8 @@ plt.style.use("ggplot");
 'tableau-colorblind10'] """
 
 sns.set_context('poster'); # 'paper', 'notebook','talk', 'poster']
+
+colorbrewer_palettes = ['Set1','Set2','Set3','Accent', 'Paired','Pastel1','Pastel2' ,'Pastel3', 'Dark2']
+for pal in colorbrewer_palettes:
+    sns.palplot(pal=sns.color_palette(pal))
+    plt.title(pal,loc='left')
