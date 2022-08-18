@@ -15,7 +15,7 @@ Welcome to my "dashbook" space. A dashbook is a cross between a `dashboard` and 
   Most "bounties", "posts", "articles", "tweets", "analyses", etc. will be presented in some kind of combintation of the two entities described above.
   I therefore will refer to these things as "*dashbooks*" or 'dashes' (with the understanding that that is short for dashbook and not dashboard).
   
-  This is soon to be a complete collection of all my work.There is a lot of crap! This is not intended as an exhibition or portfolio.
+  This is soon to be a complete collection of all my work. There is a lot of crap! This is not intended as an exhibition or portfolio.
   
   If you are a friend providing feedback or a professional head hunter or career coach, I of course welcome your opinions, as to which notebooks to use
   and how to improve. From this, I hope to refine the best or most interesting ones. If you are judging my ability, I only ask that you recognize that these 
